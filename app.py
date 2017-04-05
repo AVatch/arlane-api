@@ -23,5 +23,8 @@ def manage_data():
 
         return jsonify(data)
     else:
-        return jsonify(data)
+        return jsonify({
+            "count": len(data),
+            "results": data
+        })
     

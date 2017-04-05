@@ -1,7 +1,7 @@
 [
     {
         "product": "Oatmeal", 
-        "selected": false, 
+        "selected": true, 
         "id": 1
     }, 
     {
@@ -16,7 +16,7 @@
     }, 
     {
         "product": "Tuna", 
-        "selected": true, 
+        "selected": false, 
         "id": 4
     }
 ]
