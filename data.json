@@ -1,0 +1,22 @@
+[
+    {
+        "product": "Oatmeal", 
+        "selected": false, 
+        "id": 1
+    }, 
+    {
+        "product": "Chocolate", 
+        "selected": false, 
+        "id": 2
+    }, 
+    {
+        "product": "Spaghetti", 
+        "selected": false, 
+        "id": 3
+    }, 
+    {
+        "product": "Tuna", 
+        "selected": true, 
+        "id": 4
+    }
+]
