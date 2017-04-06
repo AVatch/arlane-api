@@ -1,17 +1,17 @@
 [
     {
         "product": "Oatmeal", 
-        "selected": true, 
+        "selected": false, 
         "id": 1
     }, 
     {
         "product": "Chocolate", 
-        "selected": false, 
+        "selected": true, 
         "id": 2
     }, 
     {
         "product": "Spaghetti", 
-        "selected": false, 
+        "selected": true, 
         "id": 3
     }, 
     {
