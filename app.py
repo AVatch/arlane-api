@@ -28,3 +28,4 @@ def manage_data():
             "results": data
         })
     
+app.run(host='0.0.0.0')
