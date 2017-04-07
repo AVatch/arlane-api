@@ -1,22 +1,68 @@
 [
     {
-        "product": "Oatmeal", 
+        "product": "Quaker Original Instant Oatmeal", 
         "selected": false, 
+        "image": "https://images8.jetcdn.net/md5/6a83091f9b3fefa1b72e1a33844a9ea4.500",
+        "id": 0
+    },
+    {
+        "product": "Twin Tree Gardens Premium spices Oregano", 
+        "selected": false, 
+        "image": "https://images9.jetcdn.net/md5/a765c8705382950c90370b7bfa6f16bd.500",
         "id": 1
-    }, 
+    },
     {
-        "product": "Chocolate", 
-        "selected": true, 
-        "id": 2
-    }, 
-    {
-        "product": "Spaghetti", 
-        "selected": true, 
-        "id": 3
-    }, 
-    {
-        "product": "Tuna", 
+        "product": "Starbucks Ground Coffee, Breakfast Blend", 
         "selected": false, 
+        "image": "https://images6.jetcdn.net/md5/a6465028d414f0cc59d8b3468af4e3ce.500",
+        "id": 2
+    },
+    {
+        "product": "Contadina Pasta sauce", 
+        "selected": false, 
+        "image": "https://images3.jetcdn.net/md5/3eb40948c202df894edbdbeb968a0445.500",
+        "id": 3
+    },
+    {
+        "product": "Bai Antioxidant Infusion Variety Pack", 
+        "selected": false, 
+        "image": "https://images5.jetcdn.net/md5/5bcc8bd694069d5bae5d91a348780990.500",
         "id": 4
+    },
+    {
+        "product": "Honey Nut Cheerios", 
+        "selected": false, 
+        "image": "https://images4.jetcdn.net/md5/d503aa6786f008e62694819f98b4d8a6.500",
+        "id": 5
+    },
+    {
+        "product": "Sensodyne ProNamel Gentle Whitening Fluoride Toothpaste", 
+        "selected": false, 
+        "image": "https://images7.jetcdn.net/md5/84f95b9c3cfdcb067fbe20c64eb92de7.500",
+        "id": 6
+    },
+    {
+        "product": "Antibacterial hand soap", 
+        "selected": false, 
+        "image": "https://images3.jetcdn.net/md5/8d6b15bd7ae71fb126283936dd491dab.500",
+        "id": 7
+    },
+    {
+        "product": "L.A. Girl Beauty Brick Eyeshadow", 
+        "selected": false, 
+        "image": "https://images3.jetcdn.net/md5/e63d243d26e12805205b78bae96e1c91.500",
+        "id": 8
+    },
+    {
+        "product": "Kleenex Anti-Viral Facial Tissue",
+        "selected": false, 
+        "image": "https://images2.jetcdn.net/md5/c4877154a3e678e82b29346a11b021c0.500",
+        "id": 9
+    },
+    {
+        "product": "Late July Snacks Tortilla Chips",
+        "selected": false, 
+        "image": "https://images8.jetcdn.net/md5/c3cc2ef4978fca8e7eeb2bd6f18f9bf8.500",
+        "id": 10
     }
 ]
